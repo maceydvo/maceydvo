@@ -1,11 +1,16 @@
 ---
-title: "maceydvo"
+title: "Macey Dvorak"
+about: 
+  template: trestles
+  links:
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/maceydvorak/
+    - text: GitHub
+      href: https://github.com/maceydvo
+    - text: Email
+      href: mailto:maceydvorak@gmail.com
 ---
 
-This is a Quarto website.
+Education:
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+Experience:
