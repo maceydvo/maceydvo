@@ -8,13 +8,17 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
-      - Resume.qmd
+      - href: about.qmd
+        text: About Me
+      - href: resume.qmp
+        text: Resume
+      - href: project.qmd
+        text: Projects
 
 format:
   html:
     theme:
-      - cosmo
+      - flatly
       - brand
     css: styles.css
     toc: true

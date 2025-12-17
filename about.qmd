@@ -1,9 +1,47 @@
 ---
 title: "About"
+format:
+  html:
+    toc: false
+    page-layout: full
 ---
 
-About this site
+![](media/rocky_landscape.jpeg){width="100%" fig-alt="Rocky Mountain landscape"}
 
-```{r}
-1 + 1
-```
+<br>
+
+<h2>Motivations</h2>
+
+::::: columns
+::: {.column width="50%"}
+I’m motivated by the opportunity to use research and data to support environmental sustainability and community engagement. My work spans ecological connectivity studies, climate-focused social science research, and conservation analyses, where I apply tools like R, ArcGIS, QGIS, Graphab, and Excel to study environmental challenges and identify actionable solutions.
+
+Equally important is translating research into practical, community-driven impact. As a leader in the Leave No Trash University Challenge, I organized participation across multiple universities and communicated environmental data in accessible ways to inspire sustainable behaviors.
+
+Ultimately, I am driven by connecting research with action, whether analyzing ecological systems or supporting initiatives like Leave No Trash, so that science leads to tangible environmental benefits and resilient communities.
+:::
+
+::: {.column width="50%"}
+![](media/lnt_group.jpeg){fig-alt="LNT"} *Leave No Trash Student Group - Leading a global university-based initiative to properly dispose of waste to create cleaner communities.*
+
+![](media/curc_me.jpeg){fig-alt="CURC"} *Poster presentation at CURC (Celebrating Undergraduate Research and Creativity).*
+:::
+:::::
+
+<h2>Beyond My Work</h2>
+
+::::: columns
+::: {.column width="50%"}
+Outside of research and environmental projects, I enjoy exploring the outdoors with friends through hiking, camping, and skiing in areas near and far.
+
+Ultimately, my interests beyond my work and education fuel my passion for sustainability. They remind me that impactful environmental work is not just about data, but also about the relationships, experiences, and communities that surround it.
+:::
+
+::: {.column width="50%"}
+![](media/narrows_back.jpeg){fig-alt="Hiking The Narrows in Zion National Park" width="100%"} *Hiking The Narrows in Zion National Park*
+
+![](media/banff_fall.jpeg){fig-alt="Skiing (or more so falling) somewhere in Canada" width="100%"} *Skiing (or more so falling) somewhere in Canada*
+
+![](media/poudre_hammock.jpeg){fig-alt="Hammocking over a stream during a camping trip" width="100%"} *Hammocking over a stream during a camping trip*
+:::
+:::::

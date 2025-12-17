@@ -1,7 +1,9 @@
 ---
 title: "Macey Dvorak"
+image: media/macey_headshot.jpeg
 about: 
   template: trestles
+  image-shape: round
   links:
     - text: LinkedIn
       href: https://www.linkedin.com/in/maceydvorak/
@@ -11,6 +13,4 @@ about:
       href: mailto:maceydvorak@gmail.com
 ---
 
-Education:
-
-Experience:
+Hi, I’m Macey Dvorak, an emerging environmental professional specializing in climate adaptation, carbon management, and ecosystem sustainability. I’m currently pursuing a Master’s degree in Ecosystem Science and Sustainability at Colorado State University through the Professional Science Master’s program, with anticipated graduation in December 2026, and I hold a B.S. in the same field with a minor in Diversity and Inclusion in Natural Resources. My work spans ecological research, climate justice communication, sustainability-focused curriculum development, and community-based initiatives, using geospatial and statistical tools such as R, ArcGIS, QGIS, and Excel. Across research, education, and project coordination roles, I focus on research-informed decision-making, inclusive education, and science communication that supports both communities and ecosystems.
