@@ -3,16 +3,16 @@ project:
   output-dir: docs
 
 website:
-  title: "maceydvo"
+  title: "Macey Dvorak"
   navbar:
     left:
       - href: index.qmd
         text: Home
       - href: about.qmd
         text: About Me
-      - href: resume.qmp
+      - href: Resume.qmp
         text: Resume
-      - href: project.qmd
+      - href: Projects.qmd
         text: Projects
 
 format:
