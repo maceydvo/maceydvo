@@ -8,7 +8,7 @@ Here are my key outputs from the SUPER Program:
 
 -   [Annotated Bibliography](media/ab.pdf){target="_blank"}
 
--   [Research](media/curc_poster.jpg){target="_blank"}[ Poster](media/curc_poster.pdf){target="_blank"}
+-   [Research](media/curc_poster.jpg){target="_blank"}[ ](media/curc_poster.pdf){target="_blank"}[Poster](media/curc_poster.jpg){target="_blank"}
 
 -   [Communication Piece](media/comm_piece.pdf){target="_blank"}
 
