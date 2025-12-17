@@ -2,3 +2,73 @@
 title: "Resume"
 author: "Macey Dvorak"
 ---
+
+## Core Competencies
+
+-   Climate adaptation, sustainability, diversity, and inclusion in natural resources\
+-   Carbon management and greenhouse gas emissions analysis\
+-   Data analysis using RStudio, ArcGIS, Excel, and Graphab\
+-   Research-informed educational material development, science communication, and project management
+
+------------------------------------------------------------------------
+
+## Education
+
+**Professional Science Masters in Ecosystem Science and Sustainability** – Colorado State University\
+Concentration in Climate Adaptation and Risk Management \| December 2026
+
+**Bachelor of Science in Ecosystem Science and Sustainability** – Colorado State University \| May 2025\
+Minor in Diversity and Inclusion in Natural Resources\
+Mentored Research and Artistry Distinction
+
+------------------------------------------------------------------------
+
+## Project Management & Communication Experience
+
+**Graduate Student Coordinator** – MURALS, Office of Inclusive Excellence, CSU \| Sep 2025 – May 2026\
+- Facilitated research-skills workshops for undergraduates, improving scientific literacy and supporting abstracts, posters, and oral presentations\
+- Coordinated volunteers and event logistics for a large-scale academic research event\
+- Provided mentoring on research design, communication, and project development\
+- Supported inclusive engagement by connecting with Cultural Resource Centers and helping students identify opportunities to participate
+
+**Student Leader – Leave No Trash University Challenge** – CSU \| Spring 2025\
+- Organized participation across 15+ CSU student organizations and supported leaders at 20+ universities globally\
+- Communicated environmental data (litter statistics, pollution impacts) in accessible formats\
+- Contributed to community-based sustainability outcomes through large-scale clean-up efforts
+
+**Climate Justice Communication** – CSU \| Fall 2024\
+- Researched climate-change impacts on Indigenous communities in Queensland, Australia, and Niugtag, Alaska\
+- Produced written, verbal, and creative communication materials on climate justice\
+- Conducted policy and vulnerability analyses aligned with resilience and environmental justice frameworks
+
+**Composting Educational and Curriculum Development** – CSU \| Fall 2024\
+- Developed sustainability-focused educational materials for diverse age groups and community audiences\
+- Conducted research on barriers to composting and integrated findings into module design
+
+**Yellowstone National Park Tourism Environmental Analysis** – CSU \| Fall 2024\
+- Assessed environmental issues and performed resilience analyses to identify vulnerabilities and management strategies\
+- Evaluated tourism-environment interactions and developed sustainability-focused recommendations\
+- Delivered findings through poster and oral presentations
+
+------------------------------------------------------------------------
+
+## Research Experience
+
+**Sustaining Connectivity of the Greater Sage-Grouse** – CSU SUPER Program \| Aug 2024 – May 2025\
+- Conducted climate-focused ecological connectivity research under warming scenarios and conservation-area classifications\
+- Performed geospatial and statistical analysis using QGIS, R, Graphab, and Excel\
+- College Honors Award – Presentation of research poster at the Celebrate Undergraduate Research and Creativity (CURC) Showcase\
+- Published Communication Art Piece – Journal of Undergraduate Research and Scholarly Excellence
+
+**Natural Area Perception Social Science Research** – CSU \| Spring 2024\
+- Conducted surveys on use of natural areas in Fort Collins, well-being, and access\
+- Evaluated data using social science techniques, including Q-sort methodology
+
+------------------------------------------------------------------------
+
+## Certifications & Training
+
+-   USGS National Map Corps Volunteer \| June 2025 – Present\
+-   Leave No Trace Certification \| Spring 2025\
+-   Project Learning Tree Training K-12 \| Fall 2024\
+-   Diversity, Inclusion, and Belonging Training
